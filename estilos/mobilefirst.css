@@ -279,6 +279,9 @@ main > section#skills > ul > div#dedicacao > details > div#imagensdedicacao > im
 main > section#skills > ul > div#dedicacao > details > div#imagensdedicacao > img#imgdedicacao2 {  
   border-radius: 0px 0px 20px 20px;
 }
+main > section#skills > ul > div#dedicacao > details > p {  
+  text-align: justify;
+}
 main > section#skills > ul > div  > p {
   text-align: justify;
 }
